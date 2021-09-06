@@ -2,7 +2,8 @@
 
 用神经网络来训练个能自己玩chrome断线时的那个小恐龙的AI
 
-示例: [https://cxwithyxy.github.io/Neuroevolution_T-rex/](https://cxwithyxy.github.io/Neuroevolution_T-rex/)
+示例: [github page](https://cxwithyxy.github.io/Neuroevolution_T-rex/)
+或者: [码云 page](https://cxwithyxy.gitee.io/neuroevolution_t-rex/)
 
 ## 游戏本体（t-rex-runner）
 
